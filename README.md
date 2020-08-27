@@ -1,4 +1,4 @@
-# Marketing Agency Site<img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px">
+# <img src="https://media.giphy.com/media/3og0INs7kEnoBYDGNi/giphy.gif" width="30px"> Marketing Agency Site <img src="https://media.giphy.com/media/3og0INs7kEnoBYDGNi/giphy.gif" width="30px">
 
 ## Table of Contents
 
@@ -52,7 +52,7 @@ Then right click anywhere in the html file and select "Open in Default Browser":
 ![screenshot](https://ashlynimages.s3.us-east-2.amazonaws.com/Screen+Shot+2020-08-27+at+3.27.50+PM.png)
 
 
-### You are now able to preview the website! :partying_face:
+### <img src="https://cdn.shopify.com/s/files/1/1061/1924/products/4_grande.png?v=1571606116" width="20px"/> You are now able to preview the website! <img src="https://cdn.shopify.com/s/files/1/1061/1924/products/4_grande.png?v=1571606116" width="20px"/>
 
 
 
