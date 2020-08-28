@@ -23,7 +23,7 @@ Clone this repo by using:
 git clone https://github.com/AshlynMarie22/hw-01-code-refactor-AMS.git
 ```
 
-Next check to make sure there weren't any problems
+Next check to make sure there weren't any problems:
 
 ```bash
 git status
@@ -37,7 +37,7 @@ git add .
 
 ## Preview Website
 
-Now that the repo is cloned you can preview the website. Open the repo folder in Visual Studio.
+Now that the repo is cloned you can preview the website. Open the cloned repo folder in Visual Studio.
 
 If you have the shortcut installed:
 
